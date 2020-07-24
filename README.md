@@ -9,7 +9,8 @@ Steps to create this project:
 https://flutter.dev/desktop
 
 ## 2.Git clone:
-git clone:
+git clone  https://github.com/KishorP18/paint.git
+
 
 
 
