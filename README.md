@@ -1,4 +1,18 @@
-# paint:Flutter Desktop application
+# paint:Flutter Desktop application on MacOS
+
+This application has functionalities similar to
+MS-paint.
+
+Steps to create this project:
+
+## 1.Set Up Flutter for Desktop:
+https://flutter.dev/desktop
+
+## 2.Git clone:
+git clone:
+
+
+
 
 
 A new Flutter project.
